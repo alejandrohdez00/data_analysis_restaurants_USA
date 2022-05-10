@@ -1,1 +1,2 @@
 # data_analysis_restaurants_USA
+Análisis de los diferentes datos dados de negocios en EEUU. Extenso trabajo de visualización y comprensión de los datos, usando distintas librerías como Kepler para visualizar localizaciones o pandas para manejar y tratar los datos. Además, se implementó la creación de modelos de Machine Learning que predijeran el mejor lugar para posicionar un determinado restaurante. Documentación en detalle del proyecto en [Memoria.pdf](https://github.com/alejandrohdez00/data_analysis_restaurants_USA/blob/main/memoria.pdf).
